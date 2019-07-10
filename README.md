@@ -1,3 +1,3 @@
 # hello-world
 Test 
-Hi, galaxy.
+Hi, world.
